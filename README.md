@@ -11,11 +11,6 @@ Welcome to my personal portfolio website — a clean, modern single-page portfol
 Live preview
 
 - Open `index.html` in your browser to view locally.
-- For a local server (recommended), run:
-
-```bash
-
-```
 
 Files of interest
 
