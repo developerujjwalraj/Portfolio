@@ -49,4 +49,4 @@ Contact
 
 ---
 
-Made with care — feel free to request tweaks or help pushing this to GitHub.
+
