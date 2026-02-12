@@ -92,7 +92,7 @@ a {
 .hero p {
   opacity: 0.9;
   margin-bottom: 18px;
-  text-align: justify;
+  
 }
 
 .hero-actions {
@@ -163,7 +163,7 @@ a {
   border-radius: 18px;
   padding: 18px;
   box-shadow: 0 10px 30px rgba(0, 0,  0, 0.25);
-  text-align: justify;
+  
 }
 
 .profile-card h3 {
@@ -293,5 +293,6 @@ a {
   opacity: 0.8;
 
 }
+
 
 
